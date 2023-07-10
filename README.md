@@ -1,2 +1,2 @@
 # exercicios_beecrowd
-Beecrowd
+Meus exercicios resolvidos na beecrowd.com.br
